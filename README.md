@@ -43,9 +43,6 @@ dig SOA localhost
 | Primary Name Server | abc.test.com          |
 | Responsible Party   | info.version-kali.com |
 
-### Screenshot
-
-![SOA Information](images/01-soa-information.png)
 
 ---
 
@@ -69,9 +66,6 @@ whois example.test.com
 | Phone | +1 404-609-6576                                   |
 | Email | [PG@example.test.com](mailto:PG@example.test.com) |
 
-### Screenshot
-
-![WHOIS Domain Information](images/02-domain-owner.png)
 
 ---
 
@@ -104,11 +98,8 @@ whois 192.0.2.10
 | Technical Contact    | Peter Griffin                                     |
 | Contact Email        | [PG@example.test.com](mailto:PG@example.test.com) |
 
-### Screenshot
 
-![Hosting Information](images/03-hosting-information.png)
 
----
 
 ## 4. Identify Technical Contact Information
 
@@ -130,9 +121,7 @@ whois 192.0.2.10
 | Technical Contact | Peter Griffin                                     |
 | Email Address     | [PG@example.test.com](mailto:PG@example.test.com) |
 
-### Screenshot
 
-![Technical Contact Information](images/04-technical-contact.png)
 
 ---
 
@@ -155,9 +144,6 @@ cat /etc/resolv.conf
 | 75.75.75.75 |
 | 75.75.76.76 |
 
-### Screenshot
-
-![DNS Server Configuration](images/05-dns-server.png)
 
 ---
 
@@ -207,7 +193,7 @@ The `dnsenum` utility was used to enumerate DNS records associated with the targ
 
 ### Screenshot
 
-![DNS Enumeration Results](images/06-dnsenum-results.png)
+
 
 ---
 

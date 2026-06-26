@@ -43,6 +43,9 @@ dig SOA localhost
 | Primary Name Server | abc.test.com          |
 | Responsible Party   | info.version-kali.com |
 
+## Screenshot
+
+<img width="370" height="281" alt="image" src="https://github.com/user-attachments/assets/cb1a71f2-41a5-41e2-adec-3f4cae24fb27" />
 
 ---
 
@@ -66,6 +69,8 @@ whois example.test.com
 | Phone | +1 404-609-6576                                   |
 | Email | [PG@example.test.com](mailto:PG@example.test.com) |
 
+## Screenshot 
+<img width="337" height="274" alt="image" src="https://github.com/user-attachments/assets/9794d898-7e6f-4e5f-97eb-c88b4507f7a2" />
 
 ---
 
@@ -98,6 +103,10 @@ whois 192.0.2.10
 | Technical Contact    | Peter Griffin                                     |
 | Contact Email        | [PG@example.test.com](mailto:PG@example.test.com) |
 
+## Screenshot
+
+<img width="368" height="291" alt="image" src="https://github.com/user-attachments/assets/6250087c-a2c2-4e82-8356-481df53a8782" />
+
 
 
 
@@ -122,6 +131,9 @@ whois 192.0.2.10
 | Email Address     | [PG@example.test.com](mailto:PG@example.test.com) |
 
 
+## Screenshot
+
+<img width="370" height="209" alt="image" src="https://github.com/user-attachments/assets/27de4df6-5d6b-4cea-adce-90ea5c4846a1" />
 
 ---
 
@@ -144,6 +156,9 @@ cat /etc/resolv.conf
 | 75.75.75.75 |
 | 75.75.76.76 |
 
+## Screenshot
+
+<img width="342" height="134" alt="image" src="https://github.com/user-attachments/assets/da7dcffd-5e8b-40e5-9adb-90cc960beb82" />
 
 ---
 
@@ -193,6 +208,7 @@ The `dnsenum` utility was used to enumerate DNS records associated with the targ
 
 ### Screenshot
 
+<img width="377" height="216" alt="image" src="https://github.com/user-attachments/assets/acf3b9af-20ab-455c-ae7b-cd0af30b4736" />
 
 
 ---
